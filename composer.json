@@ -1,0 +1,14 @@
+{
+    "name": "inthink/hello",
+    "description": "my first composer project",
+    "type": "project",
+    "license": "byOwn",
+    "authors": [
+        {
+            "name": "inthink",
+            "email": "ind_ari08@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
